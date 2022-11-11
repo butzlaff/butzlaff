@@ -1,6 +1,6 @@
 <p color="green">My repository GIT</p>
 
-- 👋 Hi, I’m @butzlaff
+## - 👋 Hi, I’m @butzlaff
 - 👀 I’m interested in programming
 <p>
 <p>
@@ -25,9 +25,10 @@ You can click the Preview link to take a look at your changes.
 <p>
 <p>
 <p>
-## Contacts:
+  
+## - Contacts:
 <p></p>
-- 📫 How to reach me ...
+## - 📫 How to reach me ...
 
 <p />
 <p />
