@@ -1,4 +1,4 @@
-<h2 style="color=green">My repository GIT</h2>
+<h2 style="color:green">My repository GIT</h2>
 
 ## <h2>👋 Hi, I’m @butzlaff</h2>
 - 👀 I’m interested in programming
