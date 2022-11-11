@@ -2,14 +2,18 @@
 
 - 👋 Hi, I’m @butzlaff
 - 👀 I’m interested in programming
-
+<p />
+<p />
+<p />
 <!---
 butzlaff/butzlaff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
 ## Tools and Technologies that i'm learning:
-
+<p />
+<p />
+<p />
 - 🌱 I’m currently learning ...
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
@@ -19,10 +23,14 @@ You can click the Preview link to take a look at your changes.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
 </div>    
 
-
+<p />
+<p />
+<p />
 - 📫 How to reach me ...
+<p />
 ## Contacts:
-
+<p />
+<p />
 <div>
 <a href="https://instagram.com/emiliobutzlaff" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/10n_butz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
