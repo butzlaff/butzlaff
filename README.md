@@ -1,6 +1,6 @@
 <p color="green">My repository GIT</p>
 
-## - 👋 Hi, I’m @butzlaff
+## <h2>👋 Hi, I’m @butzlaff</h2>
 - 👀 I’m interested in programming
 <p>
 <p>
