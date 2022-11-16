@@ -2,9 +2,8 @@
 
 ## <h2>👋 Hi, I’m @butzlaff</h2>
 ## - 👀 I’m interested in programming
-<p>
-<p>
-<p>
+<br>
+
 <!---
 butzlaff/butzlaff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -12,8 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Tools and Technologies that i'm learning:
 <br>
-<br>
-<br>
+
 - 🌱 I’m currently learning ...
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
@@ -23,12 +21,9 @@ You can click the Preview link to take a look at your changes.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
 </div>    
 <br>
-<br>
-<br>
-  
+
+
 ## - Contacts:
-<br>
-<br>
 <br>
 📫 How to reach me ...
 
