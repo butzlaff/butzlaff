@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 <div class='content'align="left">
 <p><strong>Meu Status no Github: </strong></p>
 <a href="https://github.com/butzlaff">
-<img height="220em" src="https://github-readme-stats.vercel.app/api?username=butzlaff&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true">
-<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=butzlaff&amp;layout=compact&amp;langs_count=7&amp;theme=dark">
+<img height="220em" src="https://github-readme-stats.vercel.app/api?username=butzlaff&amp;show_icons=true&amp;theme=vue&amp;include_all_commits=true&amp;count_private=true">
+<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=butzlaff&amp;layout=compact&amp;langs_count=7&amp;theme=vue">
 </a>
   </div>
