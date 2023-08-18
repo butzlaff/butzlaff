@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 ## <h2>👋 Hi, I’m @butzlaff</h2>
 ## - 👀 I’m interested in programming
-# I am passionate about technology and I keep myself updated in this constantly evolving field. I enjoy music, movies, and TV shows, and I'm always eager to learn more. I am # # dedicated to continuously improving both personally and professionally. Although I enjoy quiet moments at home, I also love going out with friends to socialize and create @ # memories. My dedication is evident in all aspects of my life.
+I am passionate about technology and I keep myself updated in this constantly evolving field. I enjoy music, movies, and TV shows, and I'm always eager to learn more. I am dedicated to continuously improving both personally and professionally. Although I enjoy quiet moments at home, I also love going out with friends to socialize and create memories. My dedication is evident in all aspects of my life.
 
 <br>
 
