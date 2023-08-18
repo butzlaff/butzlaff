@@ -10,7 +10,8 @@ I am passionate about technology and I keep myself updated in this constantly ev
 
 <br>
 
-<icon src="https://cdn.icon-icons.com/icons2/40/PNG/128/flagofBrazil_6577.png" width="20" height="20" /> Sou apaixonado por tecnologia e mantenho-me atualizado nesse campo em constante evolução. Aprecio música, filmes e séries, e estou sempre ansioso para aprender mais. Sou dedicado a melhorar constantemente, tanto pessoalmente quanto profissionalmente. Embora goste de momentos tranquilos em casa, também adoro sair com amigos para socializar e criar memórias. Minha dedicação é evidente em todos os aspectos da minha vida.
+<icon src="https://cdn.icon-icons.com/icons2/40/PNG/128/flagofBrazil_6577.png" width="20" height="20" /> 
+Sou apaixonado por tecnologia e mantenho-me atualizado nesse campo em constante evolução. Aprecio música, filmes e séries, e estou sempre ansioso para aprender mais. Sou dedicado a melhorar constantemente, tanto pessoalmente quanto profissionalmente. Embora goste de momentos tranquilos em casa, também adoro sair com amigos para socializar e criar memórias. Minha dedicação é evidente em todos os aspectos da minha vida.
 
 
 
@@ -26,9 +27,9 @@ I am passionate about technology and I keep myself updated in this constantly ev
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />      
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>        
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
 
 </div>    
 <br>
