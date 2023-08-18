@@ -38,6 +38,7 @@ Sou apaixonado por tecnologia e mantenho-me atualizado nesse campo em constante 
 <br>
 <br>
 ## - Contacts:
+<br>
 📫 How to reach me ...
 <div>
 <a href="https://instagram.com/emiliobutzlaff" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
