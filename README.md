@@ -36,7 +36,7 @@ Sou apaixonado por tecnologia e mantenho-me atualizado nesse campo em constante 
 <br />
 <br />
 
-## - Contacts:
+## Contacts:
 <br />
 📫 How to reach me ...
 <div>
