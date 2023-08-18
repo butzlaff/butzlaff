@@ -8,7 +8,6 @@ You can click the Preview link to take a look at your changes.
 ## - 👀 I’m interested in programming
 I am passionate about technology and I keep myself updated in this constantly evolving field. I enjoy music, movies, and TV shows, and I'm always eager to learn more. I am dedicated to continuously improving both personally and professionally. Although I enjoy quiet moments at home, I also love going out with friends to socialize and create memories. My dedication is evident in all aspects of my life.
 <hr />
-<br>
 <img src="https://cdn.icon-icons.com/icons2/40/PNG/128/flagofBrazil_6577.png" width="20" height="20" /> 
 Sou apaixonado por tecnologia e mantenho-me atualizado nesse campo em constante evolução. Aprecio música, filmes e séries, e estou sempre ansioso para aprender mais. Sou dedicado a melhorar constantemente, tanto pessoalmente quanto profissionalmente. Embora goste de momentos tranquilos em casa, também adoro sair com amigos para socializar e criar memórias. Minha dedicação é evidente em todos os aspectos da minha vida.
 
