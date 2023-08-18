@@ -15,7 +15,6 @@ Sou apaixonado por tecnologia e mantenho-me atualizado nesse campo em constante 
 
 ## Tools and Technologies that i'm learning:
 <br>
-
 - 🌱 I’m currently learning ...
 <div style="background-color:powderblue;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />  
