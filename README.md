@@ -35,8 +35,10 @@ Sou apaixonado por tecnologia e mantenho-me atualizado nesse campo em constante 
 </div>    
 <br>
 
-
+<br>
+<br>
 ## - Contacts:
+<br>
 <br>
 📫 How to reach me ...
 
@@ -47,6 +49,8 @@ Sou apaixonado por tecnologia e mantenho-me atualizado nesse campo em constante 
 <a href="https://www.linkedin.com/in/emilio-butzlaff/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 <div class='content'align="left">
+  <br>
+  <br>
 <p><strong>My Github Stats: </strong></p>
 <a href="https://github.com/butzlaff">
 <img height="220em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=butzlaff&amp;show_icons=true&amp;theme=vue&amp;include_all_commits=true&amp;count_private=true">
