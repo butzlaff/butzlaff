@@ -6,6 +6,8 @@ You can click the Preview link to take a look at your changes.
 
 ## <h2>👋 Hi, I’m @butzlaff</h2>
 ## - 👀 I’m interested in programming
+# I am passionate about technology and I keep myself updated in this constantly evolving field. I enjoy music, movies, and TV shows, and I'm always eager to learn more. I am # # dedicated to continuously improving both personally and professionally. Although I enjoy quiet moments at home, I also love going out with friends to socialize and create @ # memories. My dedication is evident in all aspects of my life.
+
 <br>
 
 ## Tools and Technologies that i'm learning:
@@ -13,11 +15,16 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning ...
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />      
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>        
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />        
 </div>    
 <br>
 
@@ -33,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/emilio-butzlaff/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 <div class='content'align="left">
-<p><strong>Meu Status no Github: </strong></p>
+<p><strong>My Github Stats: </strong></p>
 <a href="https://github.com/butzlaff">
 <img height="220em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=butzlaff&amp;show_icons=true&amp;theme=vue&amp;include_all_commits=true&amp;count_private=true">
 <img height="220em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=butzlaff&amp;layout=compact&amp;langs_count=7&amp;theme=vue">
