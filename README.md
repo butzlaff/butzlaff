@@ -13,8 +13,6 @@ I am passionate about technology and I keep myself updated in this constantly ev
 <img src="https://cdn.icon-icons.com/icons2/40/PNG/128/flagofBrazil_6577.png" width="20" height="20" /> 
 Sou apaixonado por tecnologia e mantenho-me atualizado nesse campo em constante evolução. Aprecio música, filmes e séries, e estou sempre ansioso para aprender mais. Sou dedicado a melhorar constantemente, tanto pessoalmente quanto profissionalmente. Embora goste de momentos tranquilos em casa, também adoro sair com amigos para socializar e criar memórias. Minha dedicação é evidente em todos os aspectos da minha vida.
 
-
-
 ## Tools and Technologies that i'm learning:
 <br>
 
@@ -33,7 +31,6 @@ Sou apaixonado por tecnologia e mantenho-me atualizado nesse campo em constante 
 
 </div>    
 <br />
-<br />
 
 ## Contacts:
 <br />
@@ -45,7 +42,6 @@ Sou apaixonado por tecnologia e mantenho-me atualizado nesse campo em constante 
 <a href="https://www.linkedin.com/in/emilio-butzlaff/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 <div class='content'align="left">
-  <br>
   <br>
 <h2>
 <strong>My Github Stats: </strong>
