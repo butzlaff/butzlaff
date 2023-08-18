@@ -47,7 +47,7 @@ Sou apaixonado por tecnologia e mantenho-me atualizado nesse campo em constante 
 <div class='content'align="left">
   <br>
   <br>
-## <p><strong>My Github Stats: </strong></p>
+<p><strong>## My Github Stats: </strong></p>
 <a href="https://github.com/butzlaff">
 <img height="220em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=butzlaff&amp;show_icons=true&amp;theme=vue&amp;include_all_commits=true&amp;count_private=true">
 <img height="220em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=butzlaff&amp;layout=compact&amp;langs_count=7&amp;theme=vue">
