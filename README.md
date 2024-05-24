@@ -2,7 +2,7 @@
 butzlaff/butzlaff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h2 style="color:#228B22;"> Welcome to My repository GIT/GITHUB</h2>
+<h2 style="color:#228B22;"> Welcome to My GITHUB</h2>
 
 ## <h2>👋 Hi, I’m @butzlaff</h2>
 ## - 👀 I’m interested in programming
