@@ -11,9 +11,9 @@ I am passionate about technology and I keep myself updated in this constantly ev
 <img src="https://cdn.icon-icons.com/icons2/40/PNG/128/flagofBrazil_6577.png" width="20" height="20" /> 
 Sou apaixonado por tecnologia e mantenho-me atualizado nesse campo em constante evolução. Aprecio música, filmes e séries, e estou sempre ansioso para aprender mais. Sou dedicado a melhorar constantemente, tanto pessoalmente quanto profissionalmente. Embora goste de momentos tranquilos em casa, também adoro sair com amigos para socializar e criar memórias. Minha dedicação é evidente em todos os aspectos da minha vida.
 
-## Tools and Technologies that i'm learning:
+## Tools and Technologies:
 <br>
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently knowledge...
 <div style="background-color:#ffffff;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="100" height="100" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="100" height="100" /> 
@@ -24,7 +24,7 @@ Sou apaixonado por tecnologia e mantenho-me atualizado nesse campo em constante 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="100" height="100" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="100" height="100" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="100" height="100" />
-<img src="https://camo.githubusercontent.com/0566752248b4b31b2c4bdc583404e41066bd0b6726f310b73e1140deefcc31ac/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" width="150" height="100" />
+<!-- <img src="https://camo.githubusercontent.com/0566752248b4b31b2c4bdc583404e41066bd0b6726f310b73e1140deefcc31ac/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" width="150" height="100" /> -->
 
 </div>    
 <br />
